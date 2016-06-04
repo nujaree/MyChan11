@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/chkAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ทั้งหมด"
+        android:textColor="#80000000"
+        android:textSize="@dimen/customTitle" />
+
+    <CheckBox
+        android:id="@+id/chkfood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ร้านอาหาร"
+        android:textColor="#80000000"
+        android:textSize="@dimen/customTitle" />
+
+    <CheckBox
+        android:id="@+id/chkcoffe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ร้านกาแฟ"
+        android:textColor="#80000000"
+        android:textSize="@dimen/customTitle" />
+
+    <CheckBox
+        android:id="@+id/chktav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="สถานที่ท่องเที่ยว"
+        android:textColor="#80000000"
+        android:textSize="@dimen/customTitle" />
+
+    <CheckBox
+        android:id="@+id/chkhotail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ที่พัก"
+        android:textColor="#80000000"
+        android:textSize="@dimen/customTitle" />
+
+</LinearLayout>

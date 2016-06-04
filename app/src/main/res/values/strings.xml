@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">about Chan</string>
+    <string name="icon_heart">&#xf08a;</string>
+    <string name="icon_building">&#xf1ad;</string>
+    <string name="icon_coffee">&#xf0f4;</string>
+    <string name="icon_sun">&#xf185;</string>
+    <string name="icon_cutlery">&#xf0f5;</string>
+    <string name="icon_heart_full">&#xf004;</string>
+    <string name="icon_up">&#xf164;</string>
+    <string name="icon_down">&#xf165;</string>
+    <string name="icon_phone">&#xf10b;</string>
+</resources>
